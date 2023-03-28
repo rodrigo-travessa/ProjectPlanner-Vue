@@ -1,0 +1,34 @@
+{
+    "projects":[
+        {
+            "id":1,
+            "title": "Banana Pie",
+            "details": "Bake a Pie with Bananas",
+            "isComplete": false           
+        },
+        {
+            "id":2,
+            "title": "Apple Pie",
+            "details": "Bake a Pie with Apples",
+            "isComplete": false           
+        },
+        {
+            "id":3,
+            "title": "Pineapple Pie",
+            "details": "Bake a Pie with Pineapples",
+            "isComplete": false           
+        },
+        {
+            "id":4,
+            "title": "Guava Pie",
+            "details": "Bake a Pie with Guavas",
+            "isComplete": false           
+        },
+        {
+            "id":5,
+            "title": "Orange Pie",
+            "details": "Bake a Pie with Oranges",
+            "isComplete": false           
+        }
+    ]
+}
